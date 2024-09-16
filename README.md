@@ -14,8 +14,7 @@ Nosso projeto visa simplificar o planejamento estratégico de marketing para emp
     ├── manifests/  
     │   └── AndroidManifests.xml  
     ├── kotlin+java/  
-    │   └── to indicate/  
-    │       └── br/  
+    │     └── br/  
     │           └── com/  
     │               └── vom/  
     │                   └── hive/  
